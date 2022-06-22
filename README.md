@@ -12,7 +12,7 @@ The front-end beginner.
 
 ### Top Repositories
 
-|---|----|
+
 |<a href="https://github.com/hua-qi/huaqi-react-demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hua-qi&repo=huaqi-react-demo&title_color=016866&icon_color=016866" />
 </a>|<a href="https://github.com/hua-qi/tigerZoo">
@@ -24,6 +24,7 @@ The front-end beginner.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hua-qi&repo=POYI&title_color=016866&icon_color=016866" />
 </a>
 |
+|---|----|
 
 ### How to reach me
 
