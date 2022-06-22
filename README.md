@@ -16,9 +16,19 @@ The front-end beginner.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hua-qi&repo=huaqi-react-demo&title_color=016866&icon_color=016866" />
 </a>
 
+<br />
+
 <a href="https://github.com/hua-qi/tigerZoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hua-qi&repo=tigerZoo&title_color=016866&icon_color=016866" />
 </a>
+
+<br />
+
+<a href="https://github.com/hua-qi/VUE-TS-CMS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hua-qi&repo=VUE-TS-CMS&title_color=016866&icon_color=016866" />
+</a>
+
+<br />
 
 <a href="https://github.com/hua-qi/POYI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hua-qi&repo=POYI&title_color=016866&icon_color=016866" />
